@@ -1,1 +1,1 @@
-App APK :- 
+App APK :- [app-debug.apk]
